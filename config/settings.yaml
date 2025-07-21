@@ -1,0 +1,5 @@
+openai_api_key: ""
+wechat_app_id: ""
+wechat_app_secret: ""
+preview_openid: ""
+publish_mode: "draft_only"

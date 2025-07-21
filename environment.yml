@@ -1,0 +1,20 @@
+name: wechat-digest-mvp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - lxml
+  - ca-certificates
+  - openssl
+  - pip:
+      - beautifulsoup4
+      - requests
+      - openai==1.30.1
+      - jinja2
+      - wechatpy
+      - tenacity
+      - markdown
+      - loguru
+      - pyyaml
